@@ -75,7 +75,7 @@ pip install pillow keyboard
 | ![hp](images/hp.png)       | `o`           | Heavy Punch (C)      |
 | ![lk](images/lk.png)       | `j`           | Light Kick (A#/Bb)   |
 | ![mk](images/mk.png)       | `k`           | Medium Kick (B)      |
-| ![hk](images/HK.png)       | `l`           | Heavy Kick (G)       |
+| ![hk](images/hk.png)       | `l`           | Heavy Kick (G)       |
 | IO                         | `space`       | Increase Octave (8)  |
 | DO                         | `s`           | Decrease Octave (2)  |
 
